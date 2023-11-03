@@ -1,6 +1,6 @@
 # Dados das matrículas da EJA
 
-## Tabelas de dados sobre as matrículas da EJA no estado da Bahia e em Salvador.
+## Tabelas de dados sobre as matrículas da EJA no estado da Bahia.
 
 As tabelas contêm informações sobre sexo, faixa etária e raça.
 
